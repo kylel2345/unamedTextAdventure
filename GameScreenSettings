@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<data>
+    <layoutConstraints>
+        <fileMenuButtPercent>25</fileMenuButtPercent>
+        <gameScenePercent>75</gameScenePercent>
+    </layoutConstraints>
+</data>
